@@ -12,7 +12,6 @@ programming and interpret the results in a real-world context.
 - Familiarity with variables, data types, and arithmetic operations in Java
 - Knowledge of conditional statements in Java
 
-
 **What You'll Achieve**
 
 By completing this lab, you will:
@@ -66,3 +65,16 @@ public class BMICalculator {
 - Use conditional statements (if-else) to determine the BMI category.
 - You can use `String.format("%.1f", bmi)` to round the BMI to one decimal place.
 
+Remember, the goal is to learn and have fun! Don't hesitate to ask for help if you get stuck.
+
+**Submission Instructions:**
+
+1. Fork the repository
+2. Clone your fork
+3. Navigate into the repository
+4. Implement the required methods
+5. Test your implementation with various inputs
+6. Git add, commit, and push to your fork
+7. Submit a pull request
+    - Add a title clearly describing your changes
+    - In the comment, briefly explain your implementation approach and any challenges you faced
