@@ -6,6 +6,15 @@ public class BMICalculator {
         double weightInKg = 70.0;
         double heightInMeters = 1.75;
 
-        // TODO: Implement BMI calculation and interpretation here
+        // Validates weight and height are positive numbers
+
+        // Calculates BMI using formula
+
+        // Rounds BMI to one decimal place
+
+        // Display calculated BMI
+
+        // Interpret BMI value and display interpretation
+
     }
 }
